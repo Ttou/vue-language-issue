@@ -1,8 +1,7 @@
-<script lang="ts">
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'CompTypeTest',
+  name: 'CompType',
   setup() {
     function open() {}
 
@@ -11,4 +10,3 @@ export default defineComponent({
     }
   }
 })
-</script>
